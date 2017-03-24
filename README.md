@@ -1,5 +1,9 @@
 # unReality
 2D RPG for IB personal project
+
+---Make sure to add the /res folder to the build path---
+The /res folder contains some basic images for the game
+
 This was created as a project for the IB personal project in 10th grade. This was mostly a project I started to learn Java, so that I had an eventual goal 
 while learning the language. I would reccomend you always plan out projects in advance, as I learned from how messy and unorganized my code became. I would also reccomend
 more detailed comments, so that when you come back to something you can remember how it works. It also challenged my problem solving skills by forcing me to derive an algorithm
